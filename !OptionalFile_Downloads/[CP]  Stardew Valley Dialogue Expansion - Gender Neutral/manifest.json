@@ -1,0 +1,17 @@
+{
+    "Name": "Canon-Friendly Dialogue Expansion for All Friend-able Characters - Gender Neutral Patch for Content Patcher",
+    "Author": "gizzymo (dialogue), paradigmnomad (coding), and various contributors.",
+    "Description": "Adds about 2400 new lines of dialogue across all 33 characters who have a heart level - edited to refer to the player farmer in a gender neutral fashion - Content Patcher version",
+    "Version": "2.0.0",
+    "UniqueID": "gizzymo.canonfriendlyexpansion.genderneutral",
+    "ContentPackFor":
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+    "Dependencies": [
+    {
+        "UniqueID": "gizzymo.canonfriendlyexpansion",
+        "IsRequired": false
+    }, ],
+    "UpdateKeys": ["Nexus:2544@GenderNeutral"],
+}
