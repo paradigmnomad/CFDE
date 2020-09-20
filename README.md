@@ -10,9 +10,18 @@ Canon Friendly Dialogue Expansion (CFDE) was made by [gizzymo](https://www.nexus
 - Unique dialogue for festivals up through year 3, afterwards dialogue is randomized;
 
 ## Credits
+
+### Optional Packs
+
+Pack Name | Author(s)
+--------- | ---------
+Alternate Bachlorette Version | WarAdvisor, IAmTheRed, & VileBeggar
+Gender Neutral Farmer | Alfrinn
+
+### Translators
 Huge thank you to those who have translated CFDE
 
-Language     | Author | Completion Status 
+Language     | Author(s) | Completion Status 
 -----------  | ------ | ---------------
 French | N/A | Not Started
 German | [Biiene_x3](https://www.nexusmods.com/stardewvalley/users/34475265) (Original Translation)| Incomplete
