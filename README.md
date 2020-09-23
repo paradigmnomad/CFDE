@@ -11,6 +11,8 @@ Canon Friendly Dialogue Expansion (CFDE) was made by [gizzymo](https://www.nexus
 
 ## Credits
 
+This mod was inspired by [Seismothesaurus's](https://www.nexusmods.com/stardewvalley/users/45651647) [Extended Dialogue for Jodi and Kent](https://www.nexusmods.com/stardewvalley/mods/1288) mod. No word-for-word text is re-purposed from it, however.
+
 ### Optional Packs
 
 Pack Name | Author(s)
