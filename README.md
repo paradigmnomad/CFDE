@@ -11,6 +11,8 @@ Canon Friendly Dialogue Expansion (CFDE) was made by [gizzymo](https://www.nexus
 
 ## Credits
 
+This mod was inspired by [Seismothesaurus's](https://www.nexusmods.com/stardewvalley/users/45651647) [Extended Dialogue for Jodi and Kent](https://www.nexusmods.com/stardewvalley/mods/1288) mod. No word-for-word text is re-purposed from it, however.
+
 ### Optional Packs
 
 Pack Name | Author(s)
@@ -30,10 +32,11 @@ Japanese | N/A | Not Started
 Korean | [Forest](https://www.nexusmods.com/stardewvalley/users/67648726) (Original Translation)| Incomplete
 Mandarin | [oliverdaodao](https://www.nexusmods.com/stardewvalley/users/33334920) (Original Translation) | Complete
 Portuguese (EU) | [Elyas](https://www.nexusmods.com/stardewvalley/users/53912806) (Original Translation) | Complete
+Portuguese (BR) | kaznej | In progress
 Russian | [Ghost3lboom](https://www.nexusmods.com/stardewvalley/users/67506381) (Original Translation) | Complete
 Spanish | [danirz](https://www.nexusmods.com/stardewvalley/users/76761043) (Original Translation) | Complete
 Turkish | N/A | Not Started
 
-`Not Started` means nobody has posted or started work on that translation. `Incomplete` translations are missing large portions of dialogue or are outdated and are not included in the main download. `Complete` translations may have typos/bugs are that not present in the English version but are included in the main download.
+`Not Started` means nobody has posted or started work on that translation. `Incomplete` translations are missing large portions of dialogue or are outdated and are not included in the main download. `Complete` translations may have typos/bugs are that not present in the English version but are included in the main download. `In Progress` means somebody has begun work on it. This is subject to change at any time.
 
 If you want to translate CFDE into a language not listed (ex. Polish or Thai) send paradigmnomad a DM.
