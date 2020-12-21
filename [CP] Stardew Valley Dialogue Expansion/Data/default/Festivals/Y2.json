@@ -34,6 +34,10 @@
             "Vincent": "I heard the prize this year might be 1000G! That's SO much money!$h#$b#That's like... enough to buy 1000G worth of ice cream!$h",
             "Willy": "The children of this town don't care too much for what I spend most of my time doing. And that's fine.#$b#Helping out with this event helps me connect with them a little, even if indirectly.$h",
         },
+        "When":
+        {
+            "Year |contains=2": false
+        }
     },
     {
         "LogName": "Year 2 Festival Flower Dance - spring24.xnb",

@@ -34,6 +34,10 @@
             "Vincent": "Eu ouvi que o prêmio esse ano pode ser 1000G! Isso é TANTO dinheiro!$h#$b#É tipo... O bastante pra comprar 1000G de sorvete!$h",
             "Willy": "As crianças dessa cidade não ligam muito para o que eu passo a maior parte do meu tempo fazendo. Está tudo bem.#$b#Ajudar nesse evento me ajuda a conectar com eles um pouco, mesmo que indiretamente.$h",
         },
+        "When":
+        {
+            "Year |contains=2": false
+        }
     },
     {
         "LogName": "Year 2 Festival Flower Dance - spring24.xnb",

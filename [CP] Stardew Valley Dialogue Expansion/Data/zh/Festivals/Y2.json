@@ -34,6 +34,10 @@
             "Vincent": "我听说今年的奖品可能是 1000G! 那可是一大笔钱!$h#$b#就像... 足够买1000G的冰淇淋一样!$h",
             "Willy": "这个镇上的孩子不太关心我大部分时间在做什么.那没关系.#$b#帮助完成这项活动有助于我与他们建立一点联系,即使是间接的.$h",
         },
+        "When":
+        {
+            "Year |contains=2": false
+        }
     },
     {
         "LogName": "Year 2 Festival Flower Dance - spring24.xnb",
