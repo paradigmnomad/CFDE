@@ -7,7 +7,7 @@
         "Entries":
         {
             "Abigail": "Are you bringing your A-game again this year?$h",
-            "Robin": "I'll build as many coops as you like. Each one is just as enjoyable for me as the last.",
+            "Robin": "I'll build as many coops as you like. It's always enjoyable for me.",
             "Demetrius": "The grass in the valley is very nutritious for chickens, certainly better than the corn they're fed on most other farms.",
             "Maru": "I'm trying to come up with egg-themed lesson ideas for Penny. It's tough when Jas already knows just about everything about them.",
             "Sebastian": "This festival must look really bizarre to someone with zero context for it.#$b#An entire day we're supposed to take, so we can talk about... eggs. I mean, really?#$e#What was it like, anyway, your first year here?",
@@ -26,7 +26,7 @@
             "Kent": "I'm still not big on this festival much, myself, but it is nice to see Vincent in a good mood.",
             "Marlon": "Many years ago, I took on a whole horde of Pepper Rexes while looking for a dinosaur egg.#$e#I emerged victorious, of course, but those eggs are always a rare find.",
             "Sam": "I took some allergy medication this morning. Now I feel kind of loopy.#$e#It always hits me on the day of this festival, for some reason. Maybe it's just from spending so much time outside.",
-            "Leah": "Nothing special in the fruit punch this year. That's totally fine.#$b#I'm a little older than I was when I first moved here.",
+            "Leah": "Where's that punch from a couple years ago? That stuff was to die for.#$e#Yeah, I know why it was good. I'm not dense.$h#$e#Okay, well, maybe it took a few glasses for me to figure it out.$u#$b#But it was worth it!",
             "Shane": "If you want good birds who lay the best eggs, you've just gotta give 'em the life they deserve.#$e#This festival would never work with a bunch of factory-farmed eggs. Never in a million years.",
             "Marnie": "I think things turned out pretty well this year!$h",
             "Elliott": "This environment isn't particularly inspiring to me in the literary sense, but I am enjoying myself quite nicely.$h",
@@ -36,6 +36,7 @@
             "Jas": "I'll do the egg hunt, but I think I'll just look for the eggs I decorated.#$e#It's too hard to compete with grown ups.",
             "Vincent": "Me'n Dad already did an egg hunt in our house this morning.#$e#This one's more fun, though.",
             "Willy": "I thought I'd bring in a sample platter o' my homemade caviar, but it'd be a bit expensive to have enough for everyone.",
+			"Leo": "What if I kept some of these eggs to decorate my nest? That could be nice.",
         },
     },
     {
@@ -72,6 +73,7 @@
             "Jas": "Granny Evelyn let me help out with some of the flowers this year!",
             "Vincent": "I wanna collect one of each color of the flowers here. You gotta be quick, though, when no one's watching.",
             "Willy": "Dorados should be lurking in these rivers pretty soon. They're one o' the rarer catches here in the valley.",
+			"Leo": "It feels like this clearing is in a whole different world.",
         },
     },
     {
@@ -94,7 +96,7 @@
             "Evelyn": "George, you forgot to bring your hat. We're going to need a little sunscreen on your head, too.",
             "Lewis": "Ah! Governor, do you remember? This is @, one of our premier agriculturalists here in the valley.$h#$b#Psst... Hey @, we're really counting on you this year, okay?",
             "Clint": "Let's see... what else haven't I tried yet?",
-            "Penny": "Okay, here's a game. Watch the mayor and every time he smiles and says 'Absolutely!' to the governor, you get a point.#$e#It's adorable. I've just glanced over my shoulder a few times and I'm already at five points,",
+            "Penny": "Okay, here's a game. Watch the mayor and every time he smiles and says 'Absolutely!' to the governor, you get a point.#$e#It's adorable. I've just glanced over my shoulder a few times and I'm already at five points.",
             "Pam": "Aw shoot, I forgot to call in to the bus company for my day off!#$e#Oh well. Is anyone gonna notice?",
             "Haley": "Sipping a drink out of a coconut is the best. Have you ever tried it?",
             "Jodi": "Kent and I are sharing these little dumplings. They're beyond delicious.$h#$e#I wish Gus would share his recipes more often.",
@@ -110,7 +112,8 @@
             "Harvey": "I trust everyone here enough to take decent care of themselves in this heat.#$b#But it's still my job to nag everyone, anyway.$h",
             "Jas": "Hi Mr. @. Wanna dance?^Hi Ms. @. Wanna dance?",
             "Vincent": "I've gotten better at dancing since last year! No, really!",
-            "Willy": "It's just past the horizon, there. If you sail out that far, you can see the Fern Islands from that point.",
+            "Willy": "It's just past the horizon, there. If you sail out that far, you can see the Fern Islands from that point.#$b#Wouldn't you say that's about right?",
+			"Leo": "The parrots would really enjoy this beach during the summer!$h",
         },
     },
     {
@@ -143,13 +146,14 @@
             "Shane": "I'm surprised this festival doesn't get more tourists. Does the mayor have a law that swears us all to secrecy, or something?",
             "Marnie": "I actually feel a bit of a desire to sing something. The atmosphere just feels right.#$e#Maybe I'll just hum. I don't want to disturb anyone.",
             "Elliott": "I've prepared a poem for this evening. It's a bit long, but speak to me again if you'd like to hear it.#$e#The Midnight Ocean#$b#When lost in life as though I were asleep, / I fell into the midnight ocean deep, / The tossing waves attacking me to keep.#$b#\"Prepost'rous, I can't die,\" thought I with pride, / For though it swept my body side to side, / \"I only need a luminescent guide.\"#$b#Perhaps a cracking lightning bolt could blind, / Flash up a shoreline, etch into my mind / A simple haven, quite an easy find.#$b#Perhaps a royal galleon, blazing hope -- / The crew would spy me through a telescope, / And with some brilliant fanfare, offer rope.#$b#But nothing regal answered my proud cry: / Instead, some glowing jellyfish came nigh, / These eerie blooms no brighter than a sigh.#$b#And beckoned by this ghostly company, / I joined their flow, my strength returning free, / For drawn along to refuge, I did see#$b#The saving light strikes not in gaudy show / But rather glints in softest somber glow.#e#Have a good night.$h",
-            "Elliott_spouse": "I've prepared a poem for this evening. It's a bit long, but speak to me again if you'd like to hear it.#$e#The Midnight Ocean#$b#When lost in life as though I were asleep, / I fell into the midnight ocean deep, / The tossing waves attacking me to keep.#$b#\"Prepost'rous, I can't die,\" thought I with pride, / For though it swept my body side to side, / \"I only need a luminescent guide.\"#$b#Perhaps a cracking lightning bolt could blind, / Flash up a shoreline, etch into my mind / A simple haven, quite an easy find.#$b#Perhaps a royal galleon, blazing hope -- / The crew would spy me through a telescope, / And with some brilliant fanfare, offer rope.#$b#But nothing regal answered my proud cry: / Instead, some glowing jellyfish came nigh, / These eerie blooms no brighter than a sigh.#$b#And beckoned by this ghostly company, / I joined their flow, my strength returning free, / For drawn along to refuge, I did see#$b#The saving light strikes not in gaudy show / But rather glints in softest somber glow.#e#I'll see you at home, darling.$h",
+            "Elliott_spouse": "I've prepared a poem for this evening. It's a bit long, but speak to me again if you'd like to hear it.#$e#The Midnight Ocean#$b#When lost in life as though I were asleep, / I fell into the midnight ocean deep, / The tossing waves attacking me to keep.#$b#\"Prepost'rous, I can't die,\" thought I with pride, / For though it swept my body side to side, / \"I only need a luminescent guide.\"#$b#Perhaps a cracking lightning bolt could blind, / Flash up a shoreline, etch into my mind / A simple haven, quite an easy find.#$b#Perhaps a royal galleon, blazing hope -- / The crew would spy me through a telescope, / And with some brilliant fanfare, offer rope.#$b#But nothing regal answered my proud cry: / Instead, some glowing jellyfish came nigh, / These eerie blooms no brighter than a sigh.#$b#And beckoned by this ghostly company, / I joined their flow, my strength returning free, / For drawn along to refuge, I did see#$b#The saving light strikes not in gaudy show / But rather glints in softest somber glow.#e#Thank you for indulging me, darling.$h",
             "Gus": "Thankfully, business was a little slow, so I got all the mugs and dishes cleaned early.#$e#It's nice to have the better part of the evening off. That doesn't happen much.",
             "Wizard": "How did you find me back here? I thought I was well-hidden.#$b#Perhaps you are blessed with the gift of clairvoyance.#$b#Oh wait. No, you probably just remember me being here last year.",
             "Harvey": "I've been looking forward to this night for the past couple of weeks.#$e#What makes this evening special for you, @?",
             "Jas": "I wonder if this year's jellies are the same as last year's.#$b#'Cause if they are, the babies are probably all grown up now.",
             "Vincent": "I'm not tired! I never get tired!",
             "Willy": "As tempting as it is to go get my net and scoop one of these up, it's not my place to do such a thing.#$e#That would be disrespectful to the ocean.",
+			"Leo": "This evening... it feels like I'm getting a big hug from the whole world.#$e#It's... chilly, isn't it? And somehow... cozy, too.",
         },
     },
     {
@@ -164,7 +168,7 @@
             "Maru": "I wish I could just take home one of these bottles of barbecue sauce. But I guess then there'd not be enough for everyone.",
             "Sebastian": "So much noise. Maybe I'll take my bike out for a ride later to unwind.",
             "Pierre": "Hi @. I was wondering, do you really need the star tokens for winning first place this year?#$e#I mean, don't let me deter you, I just...$4",
-            "Caroline": "I really wish I could just retreat into my sunroom right now.$s#$e#But... I can't get inside our house with these grange displays in the way.$s",
+            "Caroline": "I really wish I could just retreat into my sunroom right now.$s#$e#But... I can't even get inside our house with these grange displays in the way.$s",
             "Linus": "I already got a good meal from Gus at the other end of the fair.#$b#I came over here to pay my respects to these selfless creatures.",
             "Alex": "I think I'll stay away from the 'Strength' game this year. What other games do they even have here, anyway?",
             "George": "Heh... time for a little indulgence!$h",
@@ -189,6 +193,7 @@
             "Vincent": "See? Chickens and pigs and cows all smell bad, but everyone loves them!#$e#I don't even smell bad, but Mom says I have to start taking baths every single day when I get older.$s",
             "Marlon": "I'd like to see a demonstration of those swords' durability before I buy any from Clint.",
             "Willy": "I had just about the biggest catfish you've ever seen, early in the season.#$e#Too bad it didn't last until today.#$e#Well, a man's got to eat...$s",
+			"Leo": "When the grange displays are all done, I wonder if anyone will throw them in the trash.#$e#Uncle Linus says we can take anything we want from there.",
         },
     },
     {
@@ -222,6 +227,7 @@
             "Jas": "Hehe, I love staying up late!$h",
             "Vincent": "Sam brought me into the maze, but...$s#$e#...Maybe next year.$s",
             "Marlon": "You've come a long way, @. Sights like these probably don't even faze you anymore, huh?",
+			"Leo": "...$3#$b#...This movie...$3#$b#...$3#$b#...is baaaaad.$3",
         },
     },
     {
@@ -258,6 +264,7 @@
             "Harvey": "It's a mystery to me how the people who live in perpetually frigid regions managed to survive for thousands of years.",
             "Jas": "I want to make our snowman really tall this year.",
             "Vincent": "Don't the fish get cold?",
+			"Leo": "I hope I travel to many different places when I'm all grown up. Maybe some places even colder than here.#$e#There's just so much to see!$h",
         },
     },
     {
@@ -294,6 +301,7 @@
             "Jas": "I wonder if I'll get another princess doll this year?",
             "Vincent": "I wish today was every day.",
             "Marlon": "Happy Feasting. Gil sends his regards.",
+			"Leo": "Willy got me a box of colored pencils. It was just what I wanted!$h#$e#I can use them for school. Also, if you hold them out, they make good perches.",
         },
     }]
 }
