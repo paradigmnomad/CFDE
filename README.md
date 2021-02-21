@@ -35,7 +35,7 @@ Portuguese (EU) | [Elyas](https://www.nexusmods.com/stardewvalley/users/53912806
 Portuguese (BR) | N/A | Not Started
 Russian | [Ghost3lboom](https://www.nexusmods.com/stardewvalley/users/67506381) (Original Translation) | Complete
 Spanish | [danirz](https://www.nexusmods.com/stardewvalley/users/76761043) (Original Translation) | Complete
-Turkish | N/A | Not Started
+Turkish | [KeDili](https://www.nexusmods.com/users/108727003) | In Progress
 
 `Not Started` means nobody has posted or started work on that translation. `Incomplete` translations are missing large portions of dialogue or are outdated and are not included in the main download. `Complete` translations may have typos/bugs that are not present in the English version but are included in the main download. `In Progress` means somebody has begun work on it. This is subject to change at any time. Translations may be missing any new content added because of 1.5.
 
